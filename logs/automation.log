@@ -1,0 +1,26 @@
+04:05:29.328 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
+04:05:29.461 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on My account link
+04:05:30.072 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Resister link
+04:05:30.073 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+04:05:31.405 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+04:05:31.441 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+04:05:35.270 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+04:05:35.354 [main] INFO  testCases.TC002_LoginTest - moving to login page
+04:05:35.607 [main] INFO  testCases.TC002_LoginTest - setting email from config.properties
+04:05:35.706 [main] INFO  testCases.TC002_LoginTest - setting password from config.properties
+04:05:35.767 [main] INFO  testCases.TC002_LoginTest - clicking Login button
+04:05:36.412 [main] INFO  testCases.TC002_LoginTest - verifying if my Account page ios loaded! 
+04:05:36.412 [main] INFO  testCases.TC002_LoginTest - ***** finished TC002_LoginTest *****
+04:08:06.437 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
+04:08:06.546 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on My account link
+04:08:07.032 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Resister link
+04:08:07.033 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+04:08:08.104 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+04:08:08.141 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+04:08:11.834 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+04:08:11.940 [main] INFO  testCases.TC002_LoginTest - moving to login page
+04:08:12.202 [main] INFO  testCases.TC002_LoginTest - setting email from config.properties
+04:08:12.283 [main] INFO  testCases.TC002_LoginTest - setting password from config.properties
+04:08:12.341 [main] INFO  testCases.TC002_LoginTest - clicking Login button
+04:08:13.032 [main] INFO  testCases.TC002_LoginTest - verifying if my Account page ios loaded! 
+04:08:13.032 [main] INFO  testCases.TC002_LoginTest - ***** finished TC002_LoginTest *****
