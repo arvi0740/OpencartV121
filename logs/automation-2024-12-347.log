@@ -1,0 +1,60 @@
+15:11:16.546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ArvindKumar\IdeaProjects\OpencartV121\test-output\testng-failed.xml
+
+15:11:19.248 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+15:11:19.516 [main] INFO  testCases.TC002_LoginTest - moving to login page
+15:11:19.731 [main] INFO  testCases.TC002_LoginTest - setting email from config.properties
+15:11:19.815 [main] INFO  testCases.TC002_LoginTest - setting password from config.properties
+15:11:19.861 [main] INFO  testCases.TC002_LoginTest - clicking Login button
+15:11:20.543 [main] INFO  testCases.TC002_LoginTest - verifying if my Account page ios loaded! 
+15:11:20.545 [main] INFO  testCases.TC002_LoginTest - ***** finished TC002_LoginTest *****
+13:24:04.975 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ArvindKumar\IdeaProjects\OpencartV121\master.xml
+
+13:24:17.862 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC003_LoginDDTTest *****
+13:24:19.332 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDTTest *****
+13:24:19.341 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC003_LoginDDTTest *****
+13:24:30.210 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDTTest *****
+13:24:30.211 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC003_LoginDDTTest *****
+13:24:41.265 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDTTest *****
+13:24:41.265 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC003_LoginDDTTest *****
+13:24:52.247 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDTTest *****
+15:34:23.196 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ArvindKumar\IdeaProjects\OpencartV121\master.xml
+
+15:34:41.337 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
+15:34:41.761 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on My account link
+15:34:42.558 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Resister link
+15:34:42.561 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:34:44.230 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+15:34:44.284 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+15:34:48.997 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+15:34:49.072 [main] INFO  testCases.TC002_LoginTest - moving to login page
+15:34:49.356 [main] INFO  testCases.TC002_LoginTest - setting email from config.properties
+15:34:49.438 [main] INFO  testCases.TC002_LoginTest - setting password from config.properties
+15:34:49.482 [main] INFO  testCases.TC002_LoginTest - clicking Login button
+15:34:50.191 [main] INFO  testCases.TC002_LoginTest - verifying if my Account page ios loaded! 
+15:34:50.191 [main] INFO  testCases.TC002_LoginTest - ***** finished TC002_LoginTest *****
+15:34:55.650 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC003_LoginDDTTest *****
+15:34:58.391 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDTTest *****
+15:34:58.394 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC003_LoginDDTTest *****
+15:35:10.761 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDTTest *****
+15:35:10.763 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC003_LoginDDTTest *****
+15:35:22.591 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDTTest *****
+15:35:22.593 [main] INFO  testCases.TC003_LoginDDT - ***** starting TC003_LoginDDTTest *****
+15:35:33.970 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDTTest *****
+15:35:55.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ArvindKumar\IdeaProjects\OpencartV121\master.xml
+
+15:36:02.319 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
+15:36:02.631 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on My account link
+15:36:03.426 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Resister link
+15:36:03.428 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:36:05.984 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+15:36:06.091 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
+15:36:10.764 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+15:36:10.894 [main] INFO  testCases.TC002_LoginTest - moving to login page
+15:36:11.385 [main] INFO  testCases.TC002_LoginTest - setting email from config.properties
+15:36:11.552 [main] INFO  testCases.TC002_LoginTest - setting password from config.properties
+15:36:11.682 [main] INFO  testCases.TC002_LoginTest - clicking Login button
+15:36:12.481 [main] INFO  testCases.TC002_LoginTest - verifying if my Account page ios loaded! 
